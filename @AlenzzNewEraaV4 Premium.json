@@ -1,0 +1,166 @@
+{
+    "sources": [
+        {
+            "label": "AdAway official hosts",
+            "url": "https:\/\/raw.githubusercontent.com\/nguyenxuanlocuytin-pixelmond\/my-files\/refs\/heads\/main\/hosts_original.txt",
+            "enabled": true,
+            "allow": false,
+            "redirect": false
+        },
+        {
+            "label": "Pete Lowe blocklist hosts",
+            "url": "https:\/\/pgl.yoyo.org\/adservers\/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext",
+            "enabled": true,
+            "allow": false,
+            "redirect": false
+        }
+    ],
+    "blocked": [
+        {
+            "host": "gin.freefireind.in",
+            "enabled": true
+        },
+        {
+            "host": "gin.freefiremobile.com",
+            "enabled": true
+        },
+        {
+            "host": "com.multiaccounts.cloneapps",
+            "enabled": true
+        },
+        {
+            "host": "com.dts.freefiremax",
+            "enabled": true
+        },
+        {
+            "host": "garena.co.id",
+            "enabled": true
+        },
+        {
+            "host": "na.gin.freefiremobile.com",
+            "enabled": true
+        },
+        {
+            "host": "gamesecurity.us.freefiremobile.com",
+            "enabled": true
+        },
+        {
+            "host": "hotro.ff.garena.vn",
+            "enabled": true
+        },
+        {
+            "host": "com.dts.freefireth",
+            "enabled": true
+        },
+        {
+            "host": "anticheat.garena.vn",
+            "enabled": true
+        },
+        {
+            "host": "anticheat.garena.com",
+            "enabled": true
+        },
+        {
+            "host": "ff.garena.com",
+            "enabled": true
+        },
+        {
+            "host": "conversions.appsflyer.com",
+            "enabled": true
+        },
+        {
+            "host": "ff.member.garena.com",
+            "enabled": true
+        },
+        {
+            "host": "ft.contact.garena.com",
+            "enabled": true
+        },
+        {
+            "host": "contact.garena.com",
+            "enabled": true
+        },
+        {
+            "host": "dl.dir.freefiremobile.com",
+            "enabled": true
+        },
+        {
+            "host": "ffquid.garena.com",
+            "enabled": true
+        },
+        {
+            "host": "cheatandroidios.co",
+            "enabled": true
+        },
+        {
+            "host": "cheatandroidios.garena.co",
+            "enabled": true
+        },
+        {
+            "host": "sg.gin.freefiremobile.com",
+            "enabled": true
+        },
+        {
+            "host": "br.gin.freefiremobile.com",
+            "enabled": true
+        },
+        {
+            "host": "id.gin.freefiremobile.com",
+            "enabled": true
+        },
+        {
+            "host": "vn.gin.freefiremobile.com",
+            "enabled": true
+        },
+        {
+            "host": "eu.gin.freefiremobile.com",
+            "enabled": true
+        },
+        {
+            "host": "latam.gin.freefiremobile.com",
+            "enabled": true
+        },
+        {
+            "host": "in.gin.freefiremobile.com",
+            "enabled": true
+        },
+        {
+            "host": "pk.gin.freefiremobile.com",
+            "enabled": true
+        },
+        {
+            "host": "anticheat.garena.co.id",
+            "enabled": true
+        },
+        {
+            "host": "anticheat.garena.ph",
+            "enabled": true
+        },
+        {
+            "host": "gamesecurity.garena.co.id",
+            "enabled": true
+        },
+        {
+            "host": "support.garena.com",
+            "enabled": true
+        },
+        {
+            "host": "cs.garena.com",
+            "enabled": true
+        },
+        {
+            "host": "cs.garena.vn",
+            "enabled": true
+        },
+        {
+            "host": "analytics.garena.vn",
+            "enabled": true
+        },
+        {
+            "host": "analytics.garena.co.id",
+            "enabled": true
+        }
+    ],
+    "allowed": [],
+    "redirected": []
+}
